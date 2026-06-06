@@ -1,4 +1,4 @@
-# Scale institutional knowledge using Copilot Spaces
+# Scale institutional knowledge using Copilot Spaces 2.0
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
